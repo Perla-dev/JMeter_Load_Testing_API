@@ -8,11 +8,11 @@ Ce projet contient les artefacts nécessaires pour simuler une **montée en char
 
 | Domaine | Outils et Technologies |
 | :--- | :--- |
-| **Outil de Performance** | [cite_start]**Apache JMeter** (Création et exécution de plans de test de charge)[cite: 33]. |
-| **Tests Ciblés** | [cite_start]Tests de Performance (Montée en charge), Tests de Stress, Tests d'API[cite: 11, 38]. |
-| **Protocoles** | [cite_start]HTTP Request Samplers (simulation des requêtes d'API REST). |
-| **Analyse** | [cite_start]Utilisation des Listeners (Aggregate Report, Summary Report) pour l'analyse des temps de réponse et du débit (Throughput)[cite: 12]. |
-| **Processus** | [cite_start]Définition des objectifs de performance et contribution à la décision **Go / No Go** en fonction des résultats[cite: 15]. |
+| **Outil de Performance** | **Apache JMeter** (Création et exécution de plans de test de charge). |
+| **Tests Ciblés** | Tests de Performance (Montée en charge), Tests de Stress, Tests d'API. |
+| **Protocoles** | HTTP Request Samplers (simulation des requêtes d'API REST). |
+| **Analyse** | Utilisation des Listeners (Aggregate Report, Summary Report) pour l'analyse des temps de réponse et du débit (Throughput). |
+| **Processus** | Définition des objectifs de performance et contribution à la décision **Go / No Go** en fonction des résultats. |
 
 ## ⚙️ Structure du Plan de Test (`.jmx`)
 
